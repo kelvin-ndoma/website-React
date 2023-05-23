@@ -15,7 +15,7 @@ function Experience() {
               <BsPatchCheck className="experience_details-icon" />
               <div>
                 <h4>HTML</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Very Good</small>
               </div>
             </article>
 
@@ -23,7 +23,7 @@ function Experience() {
               <BsPatchCheck className="experience_details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light"> Very Good</small>
               </div>
             </article>
 
@@ -42,7 +42,13 @@ function Experience() {
                 <small className="text-light">Experienced</small>
               </div>
             </article>
-
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icon" />
+              <div>
+                <h4>Tailwind</h4>
+                <small className="text-light">Good</small>
+              </div>
+            </article>
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icon" />
               <div>
@@ -60,7 +66,15 @@ function Experience() {
               <BsPatchCheck className="experience_details-icon" />
               <div>
                 <h4>Ruby</h4>
-                <small className="text-light">OnGoing</small>
+                <small className="text-light">Very Good</small>
+              </div>
+            </article>
+
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icon" />
+              <div>
+                <h4>Ruby on Rails</h4>
+                <small className="text-light">Very Good</small>
               </div>
             </article>
 
@@ -75,19 +89,17 @@ function Experience() {
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icon" />
               <div>
+                <h4>Postgresql</h4>
+                <small className="text-light">Good</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheck className="experience_details-icon" />
+              <div>
                 <h4>Python</h4>
                 <small className="text-light">Beginner</small>
               </div>
             </article>
-
-            <article className="experience_details">
-              <BsPatchCheck className="experience_details-icon" />
-              <div>
-                <h4>React</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-
             <article className="experience_details">
               <BsPatchCheck className="experience_details-icon" />
               <div>

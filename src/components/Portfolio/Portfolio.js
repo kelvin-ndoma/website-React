@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/image1.png";
-import IMG2 from "../../assets/image1.png";
+
+
 import IMG3 from "../../assets/image1.png";
 import IMG4 from "../../assets/image1.png";
 import IMG5 from "../../assets/image1.png";
@@ -10,43 +10,30 @@ import IMG6 from "../../assets/image1.png";
 const data = [
   {
     id: 1,
-    image: IMG1,
-    title: "man",
+    image: "https://img.freepik.com/free-vector/banking-industry-concept-illustration_114360-13934.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
+    title: "Flatironbank spending",
     github: "http://github.com",
-    demo: "https://animal-donation.vercel.app/",
+    demo: "https://flatironbank.vercel.app/",
   },
   {
     id: 2,
-    image: IMG2,
-    title: "money",
-    github: "http://github.com",
-    demo: "https://animal-donation.vercel.app/",
+    image: "https://img.freepik.com/free-vector/touristic-bus-template-realistic-style_1284-18636.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
+    title: "Wasafiri kisasa",
+    github: "https://github.com/aowuor/wasafiri-kisasa-frontend",
+    demo: "https://wasafiri-kisasa-frontend.vercel.app/",
   },
   {
     id: 3,
-    image: IMG3,
-    title: "monday",
+    image: "https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1194.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
+    title: "Simple Age Calculator",
     github: "http://github.com",
-    demo: "https://animal-donation.vercel.app/",
+    demo: "https://kelvin-ndoma.github.io/age-calculator/",
   },
-  {
-    id: 4,
-    image: IMG4,
-    title: "monkey",
-    github: "http://github.com",
-    demo: "https://animal-donation.vercel.app/",
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: "mans",
-    github: "http://github.com",
-    demo: "https://animal-donation.vercel.app/",
-  },
+
   {
     id: 6,
-    image: IMG6,
-    title: "mandzee",
+    image: "https://img.freepik.com/free-vector/adopt-me-poster-with-cute-dog-cardboard-box-city-street-concept-adoption-homeless-animals-vector-banner-with-cartoon-illustration-funny-puppy-sitting-carton-box_107791-8061.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=ais",
+    title: "Animal-Donations",
     github: "http://github.com",
     demo: "https://animal-donation.vercel.app/",
   },
