@@ -46,7 +46,7 @@ import emailjs from 'emailjs-com'
           <article className='contact_option'>
             <BsWhatsapp className='contact_option-icon'/>
             <h4>Whatsapp</h4>
-            <h5>+254******57</h5>
+            <h5>+254708840557</h5>
             <a href="https://api.whatsapp.com/send?phone+254708840557" target="_blank">Send Me a message </a>
           </article>
 

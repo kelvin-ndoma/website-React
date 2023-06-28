@@ -11,19 +11,26 @@ const data = [
   {
     id: 1,
     image: "https://img.freepik.com/free-vector/banking-industry-concept-illustration_114360-13934.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
+    title: "PowerleKt suppliers",
+    github: "https://github.com/kelvin-ndoma/PowerLektsuppliers",
+    demo: "https://power-lektsuppliers.vercel.app/",
+  },
+  {
+    id: 2,
+    image: "https://img.freepik.com/free-vector/banking-industry-concept-illustration_114360-13934.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
     title: "Flatironbank spending",
     github: "http://github.com",
     demo: "https://flatironbank.vercel.app/",
   },
   {
-    id: 2,
-    image: "https://img.freepik.com/free-vector/touristic-bus-template-realistic-style_1284-18636.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
-    title: "Wasafiri kisasa",
-    github: "https://github.com/aowuor/wasafiri-kisasa-frontend",
-    demo: "https://wasafiri-kisasa-frontend.vercel.app/",
+    id: 3,
+    image: "https://img.freepik.com/free-photo/metal-texture-with-lines_1048-4881.jpg?size=626&ext=jpg&uid=R96418730&ga=GA1.2.1191098058.1684769255&semt=ais",
+    title: "Aluminium Fabricators",
+    github: "https://github.com/kelvin-ndoma/henryfabricator",
+    demo: "https://henryfabricator.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     image: "https://img.freepik.com/free-vector/calculator-concept-illustration_114360-1194.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=sph",
     title: "Simple Age Calculator",
     github: "http://github.com",
@@ -31,7 +38,7 @@ const data = [
   },
 
   {
-    id: 6,
+    id: 5,
     image: "https://img.freepik.com/free-vector/adopt-me-poster-with-cute-dog-cardboard-box-city-street-concept-adoption-homeless-animals-vector-banner-with-cartoon-illustration-funny-puppy-sitting-carton-box_107791-8061.jpg?size=626&ext=jpg&ga=GA1.1.1191098058.1684769255&semt=ais",
     title: "Animal-Donations",
     github: "http://github.com",
