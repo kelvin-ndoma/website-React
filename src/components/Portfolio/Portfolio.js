@@ -44,6 +44,13 @@ const data = [
     github: "http://github.com",
     demo: "https://animal-donation.vercel.app/",
   },
+  {
+    id: 6,
+    image: "https://images.unsplash.com/photo-1562577309-2592ab84b1bc?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGRpZ2l0YWwlMjBtYXJrZXRpbmd8ZW58MHx8MHx8fDA%3D",
+    title:"A simple landing page for GEC study",
+    github: "http://github.com",
+    demo: "https://gecfinalpresentation.vercel.app/",
+  },
 ];
 
 function Portfolio() {
